@@ -17,7 +17,7 @@ needs
   
   - https://www.linkedin.com/in/daawar-pandit/ (Personal LinkedIn)
   - https://dawar.hashnode.dev/ (Blog)
-  - 
+  
 Feel free to check them out for in-depth documentation on my projects.
 
 
