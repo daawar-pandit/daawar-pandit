@@ -102,9 +102,12 @@ Feel free to check them out for in-depth documentation on my projects.
 
 **Monitoring:**
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" title="prometheus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/>
-  <img src="https://miro.medium.com/v2/resize:fit:780/format:webp/1*c5n_HLPND-UNB-6KeTB_Ag.jpeg" alt="cloudwatch" title="cloudwatch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" title="Prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="Grafana" width="40" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:780/format:webp/1*c5n_HLPND-UNB-6KeTB_Ag.jpeg" alt="cloudwatch" title="CloudWatch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="Elasticsearch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/logstash/logstash-icon.svg" alt="logstash" title="Logstash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kibana/kibana-icon.svg" alt="kibana" title="Kibana" width="40" height="40"/>
 </p>
 
 
@@ -127,5 +130,6 @@ Feel free to check them out for in-depth documentation on my projects.
 </p>
 
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me **[muhmmadayanashiq@gmail.com](muhmmadayanashiq@gmail.com)**
+- 📫 How to reach me: [daawar.pandit@gmail.com](mailto:daawar.pandit@gmail.com)
+
 
