@@ -15,11 +15,9 @@ needs
 
 - I write about various DevOps and cloud projects on my blog. Here are some of my recent articles:
   
-  - https://muhmmadayanashiq.wixsite.com/ayan-portfolio-1 (Portfolio Website)
-  - https://www.linkedin.com/in/ayan778/ (Personal LinkedIn)
-  - https://muhmmadayan.hashnode.dev/ (Blog)
-  - https://medium.com/@muhmmadayanashiq (Blog)
-
+  - https://www.linkedin.com/in/daawar-pandit/ (Personal LinkedIn)
+  - https://dawar.hashnode.dev/ (Blog)
+  - 
 Feel free to check them out for in-depth documentation on my projects.
 
 
