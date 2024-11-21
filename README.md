@@ -105,10 +105,7 @@ Feel free to check them out for in-depth documentation on my projects.
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" title="Prometheus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="Grafana" width="40" height="40"/>
   <img src="https://miro.medium.com/v2/resize:fit:780/format:webp/1*c5n_HLPND-UNB-6KeTB_Ag.jpeg" alt="cloudwatch" title="CloudWatch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="Elasticsearch" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg" alt="logstash" title="Logstash" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjzLhwl40Wnmslv3fqnkwu-r9DtXnn4e97eg&s" alt="kibana" title="Kibana" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjzLhwl40Wnmslv3fqnkwu-r9DtXnn4e97eg&s" alt="ELk" title="ELK" width="40" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*vZDu4Bwj2GxQh8t1IjDq4w.png" alt="ELK" title="ELK" width="40" height="40"/>
 </p>
 
 
