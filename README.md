@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Daawar Pandit </font></h1>
-<h3 align="center"><font face="Arial">I am a B.Tech graduate and DevOps Engineer with 2+ years of experience in cloud and DevOps field. I excel in enhancing system reliability and security compliance while deploying scalable solutions. My expertise lies in optimizing cloud performance and developing cost-effective strategies to meet diverse business 
+<h3 align="center"><font face="Arial">I am a B.Tech graduate and DevOps Engineer with 2+ years of experience in cloud and DevOps field. I excel in enhancing system reliability and security compliance while deploying scalable solutions. My expertise lies in optimizing cloud performance and developing cost-effective strategies to meet diverse business.
 needs
 
 
